@@ -128,7 +128,7 @@ The pages for these projects are not fully finished and are under construction. 
 <br>
 
 
-<img src="/assets/img/miniprojects/miniprojects_cover.jpg"  alt="Mini-Projects" class="banner">
+<img src="/assets/img/Portfolio.jpg"  alt="Portfolio" class="banner">
 
 
 
@@ -136,6 +136,52 @@ The pages for these projects are not fully finished and are under construction. 
 
 
 <br>
+### Machine Learning
+
+#### Lorem ipsum dolor sit amet
+
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75"> &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/mysql.png" width="50">
+  <ul><li style="list-style-type: none;">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/miniprojects/rps_classification/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
+        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
+      </a>
+    </div>
+  </div>
+</li></ul></p>
+
+### Natural Language Processing
+
+#### Lorem ipsum dolor sit amet
+
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75"> &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/mysql.png" width="50">
+  <ul><li style="list-style-type: none;">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/miniprojects/rps_classification/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
+        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
+      </a>
+    </div>
+  </div>
+</li></ul></p>
+
 
 ### Data Analysis and Visualizations
 
@@ -184,31 +230,6 @@ The pages for these projects are not fully finished and are under construction. 
 </li></ul></p>
 
 
-
-### Machine Learning
-
-#### Lorem ipsum dolor sit amet
-
-<p style="display: inline;">
-  <img src="/assets/icons/python.png" width="75"> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/mysql.png" width="50">
-  <ul><li style="list-style-type: none;">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  <div class="row">
-    <div class="column50">
-      <a href="/portfolio/miniprojects/rps_classification/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button">
-      </a>
-    </div>
-    <div class="column50">
-      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
-        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
-      </a>
-    </div>
-  </div>
-</li></ul></p>
-
-
 #### Consectetur adipiscing elit
 
 <p style="display: inline;">
@@ -231,29 +252,6 @@ The pages for these projects are not fully finished and are under construction. 
   </div>
 </li></ul></p>
 
-
-### Natural Language Processing
-
-#### Lorem ipsum dolor sit amet
-
-<p style="display: inline;">
-  <img src="/assets/icons/python.png" width="75"> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/mysql.png" width="50">
-  <ul><li style="list-style-type: none;">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  <div class="row">
-    <div class="column50">
-      <a href="/portfolio/miniprojects/rps_classification/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button">
-      </a>
-    </div>
-    <div class="column50">
-      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
-        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
-      </a>
-    </div>
-  </div>
-</li></ul></p>
 
 
 #### Consectetur adipiscing elit
