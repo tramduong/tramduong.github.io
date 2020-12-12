@@ -115,8 +115,8 @@ A place where you can get to know a little  about me.
 
 <div class="row">
     <div class="column30" style ="padding: 0px;">
-      <p style="text-align: left;">  <br>I am <b>Tram Duong</b>, a data analytics graduate student based in Washington.
-        An aspiring data analyst, data scientist, and machine learning engineer.<br><br>
+      <p style="text-align: left;">  <br>I am <b>Tram Duong</b>
+        An aspiring <b>data analyst, data scientist, and machine learning engineer</b>.<br><br>
         A result driven and detail oriented professional with proficient knowledge of mathematics, statistics, and analytics.
       </p>
     </div>
