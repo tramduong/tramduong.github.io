@@ -122,7 +122,7 @@ sitemap: false
 {:toc}
 
 
-The pages for these projects are not fully finished and are under construction. I am just linking them now in case someone is curious about my work. Check back later if you would like to see the completed versions.
+The pages contains the portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Python Notebooks, and R markdown files.
 {:.note}
 
 <br>
@@ -141,8 +141,7 @@ The pages for these projects are not fully finished and are under construction. 
 #### Lorem ipsum dolor sit amet
 
 <p style="display: inline;">
-  <img src="/assets/icons/python.png" width="75"> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/mysql.png" width="50">
+  <img src="/assets/icons/python.png" width="75"> 
   <ul><li style="list-style-type: none;">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   <div class="row">

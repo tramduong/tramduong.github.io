@@ -115,9 +115,10 @@ A place where you can get to know a little  about me.
 
 <div class="row">
     <div class="column30" style ="padding: 0px;">
-      <p style="text-align: left;">  <br>I am <b>Tram Duong</b>
-        An aspiring <b>data analyst, data scientist, and machine learning engineer</b>.<br><br>
-        A result driven and detail oriented professional with proficient knowledge of mathematics, statistics, and analytics.
+      <p style="text-align: left;">  <br> My name is <b>Tram Duong</b>. I am: <br><br>
+        - An <b>aspiring</b> data analyst, data scientist, and machine learning engineer.<br><br>
+        - A <b>result driven and detail oriented professional</b>. <br><br>
+        - <b>Proficient knowledge</b> of mathematics, statistics, and analytics.
       </p>
     </div>
     <div class="column70">
@@ -128,18 +129,20 @@ A place where you can get to know a little  about me.
 </div>
 
 <p class="justify">
-  Passionate to apply technical and analytical skills, statistical and mathematical knowledge to recognize business problems and develop effective business strategy across organizational functions.<br><br>
-  I have always enjoyed solve puzzles, and that's how I look at large and complex datasets. To me, they are like big puzzle than business problems that I need to solve. It is always exciting to me to find patterns of different datasets.
+  - Passionate to apply technical and analytical skills, statistical and mathematical knowledge to recognize business problems and develop effective business strategy across organizational functions.<br><br>
+  - I have always enjoyed solve puzzles, and that's how I look at large and complex datasets. To me, they are like big puzzle than business problems that I need to solve. It is always exciting to me to find patterns of different datasets.
 </p>
 
 ### Professional Background
 <p class="justify">
+
   I am currently pursuing a Master's degree in Applied Analytics at Columbia University with an expected graduation in December 2020. I hold a Bachelor's degree in Finance and Management Information Systems (MIS) at the University of Washington. Through my coursework, I have gained a strong foundation of knowledge in applications, databases, networks and programming throughout multiple disciplines in the analytics field. <br><br>
-  Previously, I worked as a Business Analyst in the Finance and Accounting Department at a health insurance company. Through my work experiences, I learnt how data played an important role to business decisions and success. I have gained multiple achievements regarding my work in retooling existing manual processes to become automated and digitized, resulting in greater efficienc for procedures. I also used SQL to gather useful data, such as expense reports, to analyze spending over a time period or for certain vendor before presenting information within dashboards. Furthermore, I also used SQL and Access to assist colleagues with decision making and visualizations for workflow to organize work and to manage schedules.
+
+  Previously, I worked as a Business Analyst in the Finance and Accounting Department at a health insurance company. Through my work experiences, I learnt how data played an important role to business decisions and success. I have gained multiple achievements regarding my work in retooling existing manual processes to become automated and digitized, resulting in greater efficiency for procedures. I also used SQL to gather useful data, such as expense reports, to analyze spending over a time period or for certain vendor before presenting information within dashboards. Furthermore, I also used SQL and Access to assist colleagues with decision making and visualizations for workflow to organize work and to manage schedules.
 </p>
 
 ### Career Goal
 <p class="justify">
-  I like the challenge of problem solving and have had a natural curiosity for computers for this very reason. I am a very creative person and enjoy arts and movies, and after experimenting independently, I realized that I really enjoyed programing as it provided me with a platform to really bring out my creative side. I am passionate for the analytics field as I enjoy both science and problem solving. I have been constantly seeking ways of teaching myself the basics of programming and software development. <br><br>
+  I enjoy the challenge of problem solving and have had a natural curiosity for computers for this very reason. I am passionate for the analytics field as I love both science and problem solving. I have been constantly seeking ways of teaching myself knowledge of programming and software development. <br><br>
 
   I view data analytics as a field that can make a significant impact because so many modern businesses lead so much of their work towards digital platforms and data driven. I feel that my interest and dedication to science and technology, as well as my understanding of the necessity of hard work in order to succeed, will be great assets to me in this challenging and exciting career path.

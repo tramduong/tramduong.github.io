@@ -122,7 +122,7 @@ NLTK, POS Tag, Spacy, Flask, PySpark, TextRank, Lexrank, Simhash, Taxonomy, Clas
 Advanced Python
 </b>
 <ul><li style="list-style-type: none;">
-3+ years of experience<br>
+4+ years of experience<br>
 BeautifulSoup, Matplotlib, NumPy, Pandas, SciPy, Scrapy, Seaborn
 </li></ul></p>
 
@@ -169,7 +169,7 @@ ___
     <span style="float: right;">
         2016 - 2018
     </span></b><br>
-    Extracurricular: Beta Gamma Sigma Business Honor Society, International Club, Vietnamese Student Association, Women in STEM, Phi Theta Kappa Honor Society, Southeast Asian Club, Business Club.
+    Extracurricular: Beta Gamma Sigma Business Honor Society, International Club, Vietnamese Student Association, Women in STEM, Phi Theta Kappa Honor Society, Southeast Asian Club, Business Club.<br>
     Awards: 2016-2017 Annual Dean’s List, 2018 Certificate of High Scholarship, 2015-2016 President’s List.
 </p>
 
@@ -178,7 +178,7 @@ ___
     <span style="float: right;">
         2012 - 2014
     </span></b><br>
-    Extracurricular: PTK Seattle Community College Honor Society membership, Southeast Asian Club, Women in STEM, Business Club.
+    Extracurricular: PTK Seattle Community College Honor Society membership, Southeast Asian Club, Women in STEM, Business Club.<br>
     Awards: International Education Scholarship (Winter 2013), President’s list, dean’s list
 </p>
 
