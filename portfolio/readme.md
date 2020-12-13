@@ -122,7 +122,8 @@ sitemap: false
 {:toc}
 
 
-The pages contains the portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Python Notebooks, and R markdown files.
+The pages contains the portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Python Notebooks, and R markdown files.<br>
+For a more detailed explanation, check out [Tram Duong's Github](https://github.com/tramduong/Data-Science-Portfolio)
 {:.note}
 
 <br>
@@ -138,20 +139,20 @@ The pages contains the portfolio of data science projects completed by me for ac
 <br>
 ### Machine Learning
 
-#### Lorem ipsum dolor sit amet
+#### Unsupervised Learning: Fraud Detection with Hospital data
 
 <p style="display: inline;">
-  <img src="/assets/icons/python.png" width="75"> 
+  <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.
   <div class="row">
     <div class="column50">
-      <a href="/portfolio/miniprojects/rps_classification/">
+      <a href="/portfolio/example/Autoencoder_IsolationForest.html/">
         <img src="/assets/img/project_button.png" alt="View Project" class="button">
       </a>
     </div>
     <div class="column50">
-      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
         <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
       </a>
     </div>
@@ -174,7 +175,7 @@ The pages contains the portfolio of data science projects completed by me for ac
       </a>
     </div>
     <div class="column50">
-      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
         <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
       </a>
     </div>
@@ -198,7 +199,7 @@ The pages contains the portfolio of data science projects completed by me for ac
       </a>
     </div>
     <div class="column50">
-      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
         <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
       </a>
     </div>
@@ -221,7 +222,7 @@ The pages contains the portfolio of data science projects completed by me for ac
       </a>
     </div>
     <div class="column50">
-      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
         <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
       </a>
     </div>
