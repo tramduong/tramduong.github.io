@@ -115,6 +115,21 @@ sitemap: false
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 6px 10px 0 rgba(0, 0, 0, 0.15);
 }
 
+.button_smaller {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  center;
+  width: 150px;
+}
+
+.button_smaller:hover{
+  position: relative;
+  top: -1px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 6px 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+
 
 </style>
 
@@ -129,16 +144,56 @@ For a more detailed explanation, check out [Tram Duong's Github](https://github.
 <br>
 
 
-<img src="/assets/img/Portfolio.jpg"  alt="Portfolio" class="banner">
-
-
+<img src="/assets/img/portfolio.jpg"  alt="Portfolio Banner" class="banner">
 
 
 
 
 <br>
 ### Machine Learning
+___
+#### Unsupervised Learning: Fraud Detection with Hospital data
 
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75">
+  <ul><li style="list-style-type: none;">
+  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
+    <li style="padding-left: 20px; list-style-type: none;">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank">
+        &#9679; Kmeans with Elbows and Silhouette Scores
+      </a>
+    </li>
+</li></ul></p>
+
+
+
+
+
+### testing
+
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75">
+  <ul><li style="list-style-type: none;">
+  style 2<br>
+    <li style="padding-left: 20px; list-style-type: none;">
+        &#9679; Kmeans with Elbows and Silhouette Scores
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 100px;"></a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+      <br>
+        &#9679; Kmeans with Elbows and Silhouette Scores
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 100px;"></a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+    </li>
+    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+</li></ul></p>
+
+
+### Machine Learning
+___
 #### Unsupervised Learning: Fraud Detection with Hospital data
 
 <p style="display: inline;">
@@ -147,13 +202,13 @@ For a more detailed explanation, check out [Tram Duong's Github](https://github.
   Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.
   <div class="row">
     <div class="column50">
-      <a href="/portfolio/example/Autoencoder_IsolationForest.html/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button">
+      <a href="/portfolio/example/Autoencoder_IsolationForest/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button_smaller">
       </a>
     </div>
     <div class="column50">
       <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
-        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
+        <img src="/assets/img/github_button.png" class="button_smaller" alt="View on GitHub">
       </a>
     </div>
   </div>
@@ -245,7 +300,7 @@ For a more detailed explanation, check out [Tram Duong's Github](https://github.
       </a>
     </div>
     <div class="column50">
-      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
         <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
       </a>
     </div>
@@ -269,7 +324,7 @@ For a more detailed explanation, check out [Tram Duong's Github](https://github.
       </a>
     </div>
     <div class="column50">
-      <a href="https://github.com/ryanlonergan/portfolio_repo/tree/master/rps_classification" target="_blank">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
         <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
       </a>
     </div>
