@@ -189,7 +189,7 @@ ___
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
     </li>
     <br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
 </li></ul></p>
 
 
