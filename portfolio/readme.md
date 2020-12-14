@@ -129,7 +129,19 @@ sitemap: false
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 6px 10px 0 rgba(0, 0, 0, 0.15);
 }
 
+.button_smallest {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  center;
+  width: 110px;
+}
 
+.button_smallest:hover{
+  position: relative;
+  top: -1px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 6px 10px 0 rgba(0, 0, 0, 0.15);
+}
 
 </style>
 
@@ -165,9 +177,194 @@ ___
     </li>
 </li></ul></p>
 
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75">
+  <ul><li style="list-style-type: none;">
+  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
+    <li style="padding-left: 20px; list-style-type: none;">
+        &#9679; Kmeans with Elbows and Silhouette Scores
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/K-means_Clustering/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/K-means_Clustering.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+        &#9679; PCA and KNN Algorithms                   
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/pca_knn/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+        &#9679; Autoencoder and Isolation Forest
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/Autoencoder_IsolationForest/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+    </li>
+  <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+</li></ul></p>
+
+#### Supervised Learning: Loan Default Prediction
+
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75">
+  <ul><li style="list-style-type: none;">
+  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
+    <li style="padding-left: 20px; list-style-type: none;">
+        &#9679; Logistic regression, Random Forest, and Gradient Boosting Model
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/K-means_Clustering/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/Loandefault_GradientBoosting_RF.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+        &#9679; Random Forest and Sampling Techniques                 
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/pca_knn/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/SupervisedRF%26SamplingTechniques.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+        &#9679; Gradient Boosting and Deep Learning
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/Autoencoder_IsolationForest/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/GBM%26DEEPLEARNING.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+        &#9679; Generalized Linear Model and AutoML
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/Autoencoder_IsolationForest/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/GLM%26AutoML.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+    </li>
+  <i><b>Libraries:</b> pandas, numpy, sklearn, h2o, seaborn, matplotlib.</i>
+</li></ul></p>
+
+
+#### Machine Learning Model Interpretation
+
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75">
+  <ul><li style="list-style-type: none;">
+   SHAP Values (Shapley Additive Explanations) break down a prediction to show the impact of each feature. In other words, each SHAP value measures how much each feature in our model contributes, either positively or negatively, to each prediction.<br>
+   In this project, I use Shap Values to interpret feature impact to the model output. <br>
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/example/ML_ShapValues/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button_smaller">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/ML_ShapValues.ipynb" target="_blank">
+        <img src="/assets/img/github_button.png" class="button_smaller" alt="View on GitHub">
+      </a>
+    </div>
+  </div>
+  </li></ul></p>
+
+
+#### Face Image Emotion Recognition
+
+<p style="display: inline;">
+  <img src="/assets/icons/r.png" width="40">
+  <ul><li style="list-style-type: none;">
+  For this project, the data contains a set of 2,500 facial images with 22 different emotions. The project focuses on creating an <b>mobile AI program</b> that accurately recognizes the emotion from facial images.<br><br>
+  The portability of this AI program (holding storage and memory cost) and the computational efficiency (test running time cost) are of great concern to your client. This translates to a balance between the complexity of variable/features/models used and the predictive performance. <br><br>
+  Create an advanced classification engine for faction emotion recognition, using PCA, GBM, CNN, KNN, RF with cross-validation, SVM. Resulting with <b>44% accuracy</b>.<br>
+  <div class="row">
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Image%20Recognition/doc/Main.pdf" target="_blank">
+          &#9679; Project Report
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/tree/master/Image%20Recognition" target="_blank">
+          &#9679; Github Page
+      </a>
+    </div>
+  </div>
+</li></ul></p>
+
+
+#### Algorithm implementation and evaluation
+
+<p style="display: inline;">
+  <img src="/assets/icons/r.png" width="40">
+  <ul><li style="list-style-type: none;">
+  Collaborative Filtering using ALS, KNN, TD: Focusing on alternating least square algorithms and KNN as post-processing, in which I try to evaluate how regularization will impact the prediction results.<br>
+    <li style="padding-left: 20px; list-style-type: none;">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/tree/master/Collaborative%20Filtering" target="_blank">
+        &#9679; Collaborative Filtering
+      </a>
+    </li>
+</li></ul></p>
+
+<p style="display: inline;">
+  <img src="/assets/icons/r.png" width="40">
+  <ul><li style="list-style-type: none;">
+  Collaborative Filtering using ALS, KNN, TD: Focusing on alternating least square algorithms and KNN as post-processing, in which I try to evaluate how regularization will impact the prediction results.<br>
+  <div class="row">
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Collaborative%20Filtering/doc/Main.Rmd" target="_blank">
+          &#9679; Project Report
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/tree/master/Collaborative%20Filtering" target="_blank">
+          &#9679; Github Page
+      </a>
+    </div>
+  </div>
+</li></ul></p>
 
 
 
+#### Shinny App: Eating Healthy in Fast Food Restaurant Chains in NYC
+
+<p style="display: inline;">
+  <img src="/assets/icons/r.png" width="40">
+  <ul><li style="list-style-type: none;">
+  A shinny app provides users with nutrition information for fast food chain restaurants in NYC. Users can choose restaurants based on location and compare menu items.<br>
+  <div class="row">
+    <div class="column50">
+      <a href="https://ttd2111.shinyapps.io/NYCRestaurants/" target="_blank">
+          &#9679; Shinny App
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/tree/master/RestaurantApp" target="_blank">
+          &#9679; Github Page
+      </a>
+    </div>
+  </div>
+</li></ul></p>
 
 ### testing
 
@@ -178,11 +375,11 @@ ___
     <li style="padding-left: 20px; list-style-type: none;">
         &#9679; Kmeans with Elbows and Silhouette Scores
         &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 100px;"></a>
+        <a href="/portfolio/example/K-means_Clustering/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 100px;"></a>
         &nbsp;&nbsp;&nbsp;
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
       <br>
-        &#9679; Kmeans with Elbows and Silhouette Scores
+        &#9679; Kmeans with Elbows
         &nbsp;&nbsp;&nbsp;
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 100px;"></a>
         &nbsp;&nbsp;&nbsp;
@@ -192,6 +389,27 @@ ___
   <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
 </li></ul></p>
 
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75">
+  <ul><li style="list-style-type: none;">
+  style 1<br>
+  <li style="padding-left: 20px; list-style-type: none;">
+      &#9679; Kmeans with Elbows and Silhouette Scores
+      &nbsp;&nbsp;&nbsp;
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/example/Autoencoder_IsolationForest/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button_smallest">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
+        <img src="/assets/img/github_button.png" class="button_smallest" alt="View on GitHub">
+      </a>
+    </div>
+  </div>
+  </li>
+  </li></ul></p>
 
 ### Machine Learning
 ___
