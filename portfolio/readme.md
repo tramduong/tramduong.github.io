@@ -296,7 +296,7 @@ ___
   <img src="/assets/icons/r.png" width="40">
   <ul><li style="list-style-type: none;">
   For this project, the data contains a set of 2,500 facial images with 22 different emotions. The project focuses on creating an <b>mobile AI program</b> that accurately recognizes the emotion from facial images.<br><br>
-  The portability of this AI program (holding storage and memory cost) and the computational efficiency (test running time cost) are of great concern to your client. This translates to a balance between the complexity of variable/features/models used and the predictive performance. <br><br>
+  The portability of this AI program (holding storage and memory cost) and the computational efficiency (test running time cost) are of great concern to your client. This translates to a balance between the complexity of variable/features/models used and the predictive performance.<br><br>
   Create an advanced classification engine for faction emotion recognition, using PCA, GBM, CNN, KNN, RF with cross-validation, SVM. Resulting with <b>44% accuracy</b>.<br>
   <div class="row">
     <div class="column50">
@@ -318,17 +318,7 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/r.png" width="40">
   <ul><li style="list-style-type: none;">
-  Collaborative Filtering using ALS, KNN, TD: Focusing on alternating least square algorithms and KNN as post-processing, in which I try to evaluate how regularization will impact the prediction results.<br>
-    <li style="padding-left: 20px; list-style-type: none;">
-      <a href="https://github.com/tramduong/Data-Science-Portfolio/tree/master/Collaborative%20Filtering" target="_blank">
-        &#9679; Collaborative Filtering
-      </a>
-    </li>
-</li></ul></p>
-
-<p style="display: inline;">
-  <img src="/assets/icons/r.png" width="40">
-  <ul><li style="list-style-type: none;">
+  In this project, I implement matrix factorization by focusing on alternating least square algorithms and KNN as post-processing, in which I try to evaluate how regularization will impact the prediction results.<br>
   Collaborative Filtering using ALS, KNN, TD: Focusing on alternating least square algorithms and KNN as post-processing, in which I try to evaluate how regularization will impact the prediction results.<br>
   <div class="row">
     <div class="column50">
@@ -434,28 +424,116 @@ ___
 </li></ul></p>
 
 ### Natural Language Processing
-
-#### Lorem ipsum dolor sit amet
+___
+#### Airline Industry Since COVID-19:
 
 <p style="display: inline;">
-  <img src="/assets/icons/python.png" width="75"> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/mysql.png" width="50">
+  <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  <div class="row">
-    <div class="column50">
-      <a href="/portfolio/miniprojects/rps_classification/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button">
-      </a>
-    </div>
-    <div class="column50">
-      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
-        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
-      </a>
-    </div>
-  </div>
+  The reputation of the US airline industry has been greatly damaged due to Covid-19. Tracking the topics and sentiment during these times can help airline companies when best to proceed with a relaunch strategy.<br>
+
+  <a href="https://github.com/tramduong/Data-Science-Portfolio/tree/master/Airlines%20Covid-19" target="_blank">
+    &nbsp; <i><b>Project Details</b></i>
+  </a>
+    <li style="padding-left: 20px; list-style-type: none;">
+        &#9679; Latent semantic analysis
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/LSA /" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/LSA%20.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+        &#9679; Named-entity recognition (NER)                   
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/NER/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/NER.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+        &#9679; Simhash and Word2Vec Models
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/Simhash&Word2Vec/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/Simhash%26Word2Vec.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+        &#9679; Sentiment Analysis using NLTK Sentiment Intensity Analyzer
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/WeeklySummaries_SentimentAnalysis/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/WeeklySummaries_SentimentAnalysis.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+    </li>
+  <i><b>Libraries:</b> json, nltk, sklearn, scikit spacy, re, sumy, time, pandas, matplotlib</i>
 </li></ul></p>
 
+
+####  Natural Language Processing for Google News in a 30-day period
+
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75">
+  <ul><li style="list-style-type: none;">
+  This project aims to track <b>top mentioned topics and trending</b> for Google during Covid-19 time, develop recommendations for the company through <b>topic classification</b>, and define application for other industries. <br>
+  <a href="https://github.com/tramduong/Data-Science-Portfolio/tree/master/Google%20News" target="_blank">
+    &nbsp; <i><b>Project Details</b></i>
+  </a>
+    <li style="padding-left: 20px; list-style-type: none;">
+        &#9679; Latent semantic analysis
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/K-means_Clustering/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/LSA%20.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+        &#9679; Named-entity recognition (NER)                   
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/pca_knn/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/NER.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+        &#9679; Simhash and Word2Vec Models
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/Autoencoder_IsolationForest/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/Simhash%26Word2Vec.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+        &#9679; Sentiment Analysis using NLTK Sentiment Intensity Analyzer
+        &nbsp;&nbsp;&nbsp;
+        <div class="row">
+        <div class="column50">
+        <a href="/portfolio/example/Autoencoder_IsolationForest/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        </div>
+        <div class="column50">
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/WeeklySummaries_SentimentAnalysis.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        </div>
+      </div>
+    </li>
+  <i><b>Libraries:</b> NLTK, gensim, spicy, json, sklearn, scikit, sumy_</i>
+</li></ul></p>
 
 ### Data Analysis and Visualizations
 
