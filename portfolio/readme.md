@@ -491,48 +491,69 @@ ___
     &nbsp; <i><b>Project Details</b></i>
   </a>
     <li style="padding-left: 20px; list-style-type: none;">
-        &#9679; Latent semantic analysis
+        &#9679; Simhash Text Deduplication
         &nbsp;&nbsp;&nbsp;
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/example/K-means_Clustering/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        <a href="/portfolio/example/Deduplicated/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
         </div>
         <div class="column50">
-        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/LSA%20.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Google%20News/doc/Deduplicated.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
         </div>
       </div>
-        &#9679; Named-entity recognition (NER)                   
+        &#9679; Topic Modeling with Gensim and pyLDAvis                 
         &nbsp;&nbsp;&nbsp;
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/example/pca_knn/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        <a href="/portfolio/example/TD_Gensim/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
         </div>
         <div class="column50">
-        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/NER.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Google%20News/doc/TD_Gensim.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
         </div>
       </div>
-        &#9679; Simhash and Word2Vec Models
+        &#9679; Topic Classification using Taxonomy & Word2Vec
         &nbsp;&nbsp;&nbsp;
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/example/Autoencoder_IsolationForest/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        <a href="/portfolio/example/Topic Classification/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
         </div>
         <div class="column50">
-        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/Simhash%26Word2Vec.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Google%20News/doc/Topic%20Classification.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
         </div>
       </div>
-        &#9679; Sentiment Analysis using NLTK Sentiment Intensity Analyzer
+        &#9679; LDA model to identify topic distribution and keywords
         &nbsp;&nbsp;&nbsp;
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/example/Autoencoder_IsolationForest/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
+        <a href="/portfolio/example/Word_tokenize_LDA/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 110px;"></a>
         </div>
         <div class="column50">
-        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/WeeklySummaries_SentimentAnalysis.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Google%20News/doc/Word_tokenize_LDA.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
         </div>
       </div>
     </li>
-  <i><b>Libraries:</b> NLTK, gensim, spicy, json, sklearn, scikit, sumy_</i>
+  <i><b>Libraries:</b> NLTK, gensim, spacy, json, sklearn, scikit, sumy_</i>
+</li></ul></p>
+
+#### Lyrics Text Mining
+
+<p style="display: inline;">
+  <img src="/assets/icons/r.png" width="40">
+  <ul><li style="list-style-type: none;">
+  This report is a guidebook with selected Q&A aims at finding out the insights and differences between Pop and Metal lyrics over time.
+  <div class="row">
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/PopVsMetal/doc/SongLyrics.pdf" target="_blank">
+          &#9679; Project Report
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/tree/master/PopVsMetal" target="_blank">
+          &#9679; Github Page
+      </a>
+    </div>
+  </div>
+  <i><b>Libraries:</b>dplyr, tm, tidytext, shiny, wordcloud, ggraph.</i>
 </li></ul></p>
 
 ### Data Analysis and Visualizations
