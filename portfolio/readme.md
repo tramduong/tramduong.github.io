@@ -356,72 +356,6 @@ ___
   </div>
 </li></ul></p>
 
-### testing
-
-<p style="display: inline;">
-  <img src="/assets/icons/python.png" width="75">
-  <ul><li style="list-style-type: none;">
-  style 2<br>
-    <li style="padding-left: 20px; list-style-type: none;">
-        &#9679; Kmeans with Elbows and Silhouette Scores
-        &nbsp;&nbsp;&nbsp;
-        <a href="/portfolio/example/K-means_Clustering/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 100px;"></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
-      <br>
-        &#9679; Kmeans with Elbows
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 100px;"></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
-    </li>
-    <br>
-  <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
-</li></ul></p>
-
-<p style="display: inline;">
-  <img src="/assets/icons/python.png" width="75">
-  <ul><li style="list-style-type: none;">
-  style 1<br>
-  <li style="padding-left: 20px; list-style-type: none;">
-      &#9679; Kmeans with Elbows and Silhouette Scores
-      &nbsp;&nbsp;&nbsp;
-  <div class="row">
-    <div class="column50">
-      <a href="/portfolio/example/Autoencoder_IsolationForest/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button_smallest">
-      </a>
-    </div>
-    <div class="column50">
-      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
-        <img src="/assets/img/github_button.png" class="button_smallest" alt="View on GitHub">
-      </a>
-    </div>
-  </div>
-  </li>
-  </li></ul></p>
-
-### Machine Learning
-___
-#### Unsupervised Learning: Fraud Detection with Hospital data
-
-<p style="display: inline;">
-  <img src="/assets/icons/python.png" width="75">
-  <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.
-  <div class="row">
-    <div class="column50">
-      <a href="/portfolio/example/Autoencoder_IsolationForest/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button_smaller">
-      </a>
-    </div>
-    <div class="column50">
-      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
-        <img src="/assets/img/github_button.png" class="button_smaller" alt="View on GitHub">
-      </a>
-    </div>
-  </div>
-</li></ul></p>
 
 ### Natural Language Processing
 ___
@@ -553,30 +487,93 @@ ___
       </a>
     </div>
   </div>
-  <i><b>Libraries:</b>dplyr, tm, tidytext, shiny, wordcloud, ggraph.</i>
+  <i><b>Libraries:</b> tm, tidytext, tidyverse, DT, wordcloud, scales, gridExtra, ngram, igraph, ggraph, rsconnect, syuzhet, ggwordcloud.</i>
 </li></ul></p>
 
 ### Data Analysis and Visualizations
-
-#### Lorem ipsum dolor sit amet
+___
+#### Hospital Charge Dataset - Exploratory Analysis
 
 <p style="display: inline;">
-  <img src="/assets/icons/python.png" width="75"> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/mysql.png" width="50">
+  <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   Exploratory Analysis of the hospital patient discharges using Pandas and Seaborn visualizations.<br>
   <div class="row">
     <div class="column50">
-      <a href="/portfolio/miniprojects/rps_classification/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button">
+      <a href="/portfolio/example/HospitalCharge_FE&EDA/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button_smaller">
       </a>
     </div>
     <div class="column50">
-      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
-        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Feature%20Engineering%20Projects/Doc/HospitalCharge_FE%26EDA.ipynb" target="_blank">
+        <img src="/assets/img/github_button.png" class="button_smaller" alt="View on GitHub">
       </a>
     </div>
   </div>
+  <i><b>Libraries:</b> Pandas, Folium, Seaborn and Matplotlib.</i>
+</li></ul></p>
+
+#### Loan Default Dataset: FE&EDA
+
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75">
+  <ul><li style="list-style-type: none;">
+  Create multiple feature engineerings to support data exploration and data analysis regarding to loan fraud.<br>
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/example/Loandefault_FE&EDA/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button_smaller">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Feature%20Engineering%20Projects/Doc/Loandefault_FE%26EDA.ipynb" target="_blank">
+        <img src="/assets/img/github_button.png" class="button_smaller" alt="View on GitHub">
+      </a>
+    </div>
+  </div>
+  <i><b>Libraries:</b> Pandas, Folium, Seaborn and Matplotlib.</i>
+</li></ul></p>
+
+#### Credit Cards Dataset: Exploratory Data Analysis and FE
+
+<p style="display: inline;">
+  <img src="/assets/icons/r.png" width="40">
+  <ul><li style="list-style-type: none;">
+  Create multiple feature engineerings to support data exploration and data analysis regarding to credit card fraud detection.<br>
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/example/CreditCard_FE&EDA/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button_smaller">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Feature%20Engineering%20Projects/Doc/CreditCard_FE%26EDA.ipynb" target="_blank">
+        <img src="/assets/img/github_button.png" class="button_smaller" alt="View on GitHub">
+      </a>
+    </div>
+  </div>
+  <i><b>Libraries:</b> dplyr, quantmod, TTR, PerformanceAnalytics, ggplot2, DataExplorer, xda, plotly, lubridate.</i>
+</li></ul></p>
+
+#### Stock Analysis Trading Strategies
+
+<p style="display: inline;">
+  <img src="/assets/icons/r.png" width="40">
+  <ul><li style="list-style-type: none;">
+   Analysis of trending stocks including change in price over time, daily returns, and define trading strategies for different stock, using sharpe ratio,macd, oversold, overbought, and buy&hold.<br>
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/example/Stock_FE&TradingStrategy/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button_smaller">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Feature%20Engineering%20Projects/Doc/Stock_FE%26TradingStrategy.ipynb" target="_blank">
+        <img src="/assets/img/github_button.png" class="button_smaller" alt="View on GitHub">
+      </a>
+    </div>
+  </div>
+  <i><b>Libraries:</b> dplyr, quantmod, TTR, PerformanceAnalytics, ggplot2, DataExplorer, xda, plotly, lubridate.</i>
 </li></ul></p>
 
 
@@ -603,48 +600,69 @@ ___
 </li></ul></p>
 
 
-#### Consectetur adipiscing elit
+### Machine Learning
+___
+#### Unsupervised Learning: Fraud Detection with Hospital data
 
 <p style="display: inline;">
-  <img src="/assets/icons/postgresql.png" width="75"> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/tableau.png" width="100"> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/r.png" width="50">
+  <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.
   <div class="row">
     <div class="column50">
-      <a href="/portfolio/miniprojects/rps_classification/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button">
+      <a href="/portfolio/example/Autoencoder_IsolationForest/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button_smaller">
       </a>
     </div>
     <div class="column50">
       <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
-        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
+        <img src="/assets/img/github_button.png" class="button_smaller" alt="View on GitHub">
       </a>
     </div>
   </div>
 </li></ul></p>
 
-
-
-#### Consectetur adipiscing elit
+### testing
 
 <p style="display: inline;">
-  <img src="/assets/icons/postgresql.png" width="75"> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/tableau.png" width="100"> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/r.png" width="50">
+  <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  style 2<br>
+    <li style="padding-left: 20px; list-style-type: none;">
+        &#9679; Kmeans with Elbows and Silhouette Scores
+        &nbsp;&nbsp;&nbsp;
+        <a href="/portfolio/example/K-means_Clustering/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 100px;"></a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+      <br>
+        &#9679; Kmeans with Elbows
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" style="width: 100px;"></a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" style="width: 110px;"></a>
+    </li>
+    <br>
+  <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+</li></ul></p>
+
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75">
+  <ul><li style="list-style-type: none;">
+  style 1<br>
+  <li style="padding-left: 20px; list-style-type: none;">
+      &#9679; Kmeans with Elbows and Silhouette Scores
+      &nbsp;&nbsp;&nbsp;
   <div class="row">
     <div class="column50">
-      <a href="/portfolio/miniprojects/rps_classification/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button">
+      <a href="/portfolio/example/Autoencoder_IsolationForest/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button_smallest">
       </a>
     </div>
     <div class="column50">
       <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
-        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
+        <img src="/assets/img/github_button.png" class="button_smallest" alt="View on GitHub">
       </a>
     </div>
   </div>
-</li></ul></p>
+  </li>
+  </li></ul></p>
