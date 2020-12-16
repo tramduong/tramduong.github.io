@@ -64,8 +64,9 @@ ___
     </span></b><br>
 Regeneron Pharmaceuticals, New York, NY
 </p>
+- The main contributor to the analytics progress of the project, including data cleaning, imputation, machine learning modelling, and visualizations using Python and Tableau.
+- Successfully delivered a machine learning model to help the management team allocate resources for their patients.
 - Handled an accurate and successful data management by exploring, studying, and interpreting large and complex datasets.
-- The main contributor to the analytics progress of the project, including data cleaning, imputation, and visualizations using Python.
 - Proficiently introduced innovative methods for approaching the given datasets.
 - Utilized different tactical approaches to feature engineering, feature selections, and advanced machine learning models that support the business decision for the management team.
 - Actively collaborate and communicate to the team and the sponsor throughout the entire project.
@@ -123,7 +124,7 @@ Advanced Python
 </b>
 <ul><li style="list-style-type: none;">
 4+ years of experience<br>
-BeautifulSoup, Matplotlib, NumPy, Pandas, SciPy, Scrapy, Seaborn
+BeautifulSoup, Matplotlib, NumPy, Pandas, SciPy, Scrapy, Seaborn, Scikit-Learn, pyod, h2o. 
 </li></ul></p>
 
 <p style="display: inline;">

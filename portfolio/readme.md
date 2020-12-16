@@ -577,50 +577,6 @@ ___
 </li></ul></p>
 
 
-#### Consectetur adipiscing elit
-
-<p style="display: inline;">
-  <img src="/assets/icons/postgresql.png" width="75"> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/tableau.png" width="100"> &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/r.png" width="50">
-  <ul><li style="list-style-type: none;">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  <div class="row">
-    <div class="column50">
-      <a href="/portfolio/miniprojects/rps_classification/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button">
-      </a>
-    </div>
-    <div class="column50">
-      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
-        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
-      </a>
-    </div>
-  </div>
-</li></ul></p>
-
-
-### Machine Learning
-___
-#### Unsupervised Learning: Fraud Detection with Hospital data
-
-<p style="display: inline;">
-  <img src="/assets/icons/python.png" width="75">
-  <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.
-  <div class="row">
-    <div class="column50">
-      <a href="/portfolio/example/Autoencoder_IsolationForest/">
-        <img src="/assets/img/project_button.png" alt="View Project" class="button_smaller">
-      </a>
-    </div>
-    <div class="column50">
-      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
-        <img src="/assets/img/github_button.png" class="button_smaller" alt="View on GitHub">
-      </a>
-    </div>
-  </div>
-</li></ul></p>
 
 ### testing
 
@@ -666,3 +622,47 @@ ___
   </div>
   </li>
   </li></ul></p>
+
+
+#### Consectetur adipiscing elit
+
+<p style="display: inline;">
+  <img src="/assets/icons/postgresql.png" width="75"> &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/tableau.png" width="100"> &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/r.png" width="50">
+  <ul><li style="list-style-type: none;">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/miniprojects/rps_classification/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
+        <img src="/assets/img/github_button.png" class="button" alt="View on GitHub">
+      </a>
+    </div>
+  </div>
+</li></ul></p>
+
+### Machine Learning
+___
+#### Unsupervised Learning: Fraud Detection with Hospital data
+<p style="display: inline;">
+  <img src="/assets/icons/python.png" width="75">
+  <ul><li style="list-style-type: none;">
+  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.
+  <div class="row">
+    <div class="column50">
+      <a href="/portfolio/example/Autoencoder_IsolationForest/">
+        <img src="/assets/img/project_button.png" alt="View Project" class="button_smaller">
+      </a>
+    </div>
+    <div class="column50">
+      <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank">
+        <img src="/assets/img/github_button.png" class="button_smaller" alt="View on GitHub">
+      </a>
+    </div>
+  </div>
+</li></ul></p>
