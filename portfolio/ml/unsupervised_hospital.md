@@ -149,7 +149,7 @@ sitemap: false
 {:toc}
 
 
-This page contains the different algorithms for unsupervised learning with a hospital charges dataset. This approach aims to analyze a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
+This page contains the different unsupervised learning algorithms for a hospital charges dataset. This approach aims to analyze a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
 For a more detailed explanation, check out [My Github](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Hospital%20Charges%20Fraud)
 {:.note}
 
@@ -167,8 +167,9 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  In this project, I used K-mean algorithm for classification model. Instead of relying on one method solely, I decided to use a hybrid approach by choosing off the silhouettes and the k-means elbow, thus providing a better indication of what cluster to use. <br>
+  Then I generate a average calculation approach among all features to define anomalous cluster groups. <br>
+    <i><b>Libraries:</b> pandas, scipy, sklearn, StandardScaler, seaborn, matplotlib</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/unsupervised/K-means_Clustering/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>

@@ -149,7 +149,7 @@ sitemap: false
 {:toc}
 
 
-This page contains the different algorithms for supervised learning with a loan default dataset. This approach aims to predict mortgage probability of default data and provide insights for these predictions using different advanced algorithms.<br>
+This page contains the different algorithms for supervised learning with the loan default dataset. This approach aims to predict mortgage probability of default data and provide insights for these predictions using different advanced algorithms.<br>
 For a more detailed explanation, check out [My Github](https://github.com/tramduong/Data-Science-Portfolio/tree/master/Loan%20Default)
 {:.note}
 
@@ -161,14 +161,26 @@ For a more detailed explanation, check out [My Github](https://github.com/tramdu
 
 <br>
 
+### Industry Background
+___
+
+Mortgage fraud is getting worse as more people lie about their income to qualify for loans. Home values are high, the housing market is competitive, and more buyers want to get in. As a result, an increasing number of buyers are lying and cheating. <br>
+
+Mortgage fraud risk jumped more than 12 percent year over year at the end of the second quarter, according to CoreLogic, which measures six fraud indicators: identity, income, occupancy, property, transaction and undisclosed real estate debt. One in every 109 mortgage applications is estimated to have indications of fraud. <br>
+
+Therefore, I would like to use different supervised algorithms to predict a **probability of default (PD)** – The probability that a debtor will not fulfil its obligations. <br>
+
 ### Logistic regression, Random Forest, and Gradient Boosting Model
 ___
 
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  In this project, I applied <b>logistic regression, random forest, and gradient boosting algorithms</b> to predict the mortgage fraud probability. <br>
+  The models are built using the 80% training data and validated by the 20% test data. <br>
+  The model comparison results in <b>Gradient Boosting</b> as highest prediction scores. <br>
+  I also use <b>confusion matrix, ROC curve, gain tables</b> for model evaluation part. <br>
+    <i><b>Libraries:</b> pandas, numpy, sklearn, seaborn, matplotlib</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/supervised/Loandefault_GradientBoosting_RF/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
@@ -185,8 +197,9 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  The dataset is <b>highly unbalanced</b> which can result in a serious bias towards the majority class, reducing the classification performance and increasing the number of false negatives. Thus, to reduce the issue, the most commonly used techniques are data resampling either under-sampling the majority of the class, or oversampling the minority class, or a mix of both.<br><br>
+  In this project, I used several method of <b>under_sampling and over_sampling</b> to improve classification performance. Additionally,  I used H2O Grid-search to find the <b>optimal hyper-parameters</b> for the random forest model and comparing with resampling methods. <br>  
+    <i><b>Libraries:</b> pandas, h2o, imblearn, sklearn, collections, under_sampling, over_sampling, matplotlib</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/supervised/SupervisedRF&SamplingTechniques/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
@@ -197,14 +210,18 @@ ___
       </div>
 </li></ul></p>
 
-### Gradient Boosting and Deep Learning
+### Gradient Boosting (GBM) and Deep Learning
 ___
 
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  GBM is a boosting method, which builds on weak classifiers. The idea is to add a classifier at a time, so that the next classifier is trained to improve the already trained ensemble.<br><br>
+  H2O Deep Learning is based on a multi-layer feedforward artificial neural network that contains a number of hidden layers consisting of neurons. In this project, I tried different parameters to optimize the model result. <br>
+  I also use <b>AUC, PR curve, gain tables, r2 and RMSE</b> for model evaluation part. <br><br>
+  <b>Key takeaways</b>:<br>
+  For this dataset, GBM models aim to find optimal linear combination of trees by training (assume final model is the weighted sum of predictions of individual trees) in relation to given train data, and performed much better than RF models. This leads me to believe that the dataset prefer more extra tunning (GBM) and less classifier approach (RF). <br>
+    <i><b>Libraries:</b> pandas, numpy, datetime, H2O, sklearn, seaborn, matplotlib</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/supervised/GBM&DEEPLEARNING/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
@@ -213,6 +230,7 @@ ___
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/GBM%26DEEPLEARNING.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>
         </div>
       </div>
+
 </li></ul></p>
 
 ### Generalized Linear Model and AutoML
@@ -221,8 +239,9 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  GLM estimates regression models for outcomes following exponential distributions. In order to create less complex (parsimonious) model as our data has large number of features, I used some of the regularization techniques to address over-fitting and feature selection, L1 Regularization and L2 Regularization. <br><br>
+  AutoML tends to automate the maximum number of steps in an ML pipeline - with a minimun amount of human effort - without compromising the model's performance.H2O AutoML can be used for automating the machine learning workflow, which includes automatic training and tuning of many models within a user-specified time-limit.<br><br>
+    <i><b>Libraries:</b>  pandas, numpy, datetime, H2O, sklearn, seaborn, matplotlib</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/supervised/GLM&AutoML/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>

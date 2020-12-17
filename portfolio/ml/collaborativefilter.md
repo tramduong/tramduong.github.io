@@ -156,7 +156,7 @@ For a more detailed explanation, check out [My Github](https://github.com/tramdu
 <br>
 
 
-<img src="/assets/img/ml/Collaborative.jpg"  alt="Portfolio Banner" class="banner">
+<img src="/assets/img/ml/collaborative.jpg"  alt="Portfolio Banner" class="banner">
 
 
 <br>
