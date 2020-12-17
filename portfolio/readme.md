@@ -162,7 +162,7 @@ ___
 
 <div class="row">
   <div class="column50">
-    <a href="/portfolio/ml/collaborativefilter/"><img src="/assets/img/ml/Collaborative_card.jpg" alt="Collaborative" class="button"></a>
+    <a href="/portfolio/ml/collaborativefilter/"><img src="/assets/img/ml/collaborative_card.jpg" alt="Collaborative" class="button"></a>
   </div>
   <div class="column50">
     <a href="/portfolio/ml/nyshinyapp/"><img src="/assets/img/ml/nyshiny_card.jpg" alt="Shiny App" class="button"></a>
