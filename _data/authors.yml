@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 Tram:
   name:              Tram Duong
-  email:             tthd2111@columbia.edu
+  email:             ttd2111@columbia.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -28,7 +28,7 @@ Tram:
   social:
     # twitter:         <username>
     linkedin:        tramthduong
-    email:           tthd2111@columbia.edu
+    email:           ttd2111@columbia.edu
     github:          tramduong
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
