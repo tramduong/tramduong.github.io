@@ -23,7 +23,7 @@ ___
 <p style="text-align: left;"><b>
     Master of Science in Applied Analytics
     <span style="float: right;">
-        Expected: December 2020
+        December 2020
     </span></b><br>
     Columbia University
     <span style="float: right;">
@@ -65,7 +65,7 @@ ___
 Regeneron Pharmaceuticals, New York, NY
 </p>
 - The main contributor to the analytics progress of the project, including data cleaning, imputation, machine learning modelling, and visualizations using Python and Tableau.
-- Successfully delivered a machine learning model to help the management team allocate resources for their patients.
+- Successfully delivered an unsupervised machine learning model to help the management team allocate resources for their patients.
 - Handled an accurate and successful data management by exploring, studying, and interpreting large and complex datasets.
 - Proficiently introduced innovative methods for approaching the given datasets.
 - Utilized different tactical approaches to feature engineering, feature selections, and advanced machine learning models that support the business decision for the management team.
@@ -76,7 +76,7 @@ Regeneron Pharmaceuticals, New York, NY
     <span style="float: right;">
         June 2018 - June 2019
     </span></b><br>
-HEALTHCARE MANAGEMENT ADMINISTRATORS, INC. Bellevue, WA
+Healthcare Management Administrators, INC. Bellevue, WA
 </p>
 - Utilized SharePoint and Excel to gather and manipulate data to forecast expenses for accrual analysis.
 - Collected data through SQL queries to analyze monthly expenses for creating expense reports.
@@ -90,7 +90,7 @@ HEALTHCARE MANAGEMENT ADMINISTRATORS, INC. Bellevue, WA
     <span style="float: right;">
         Nov 2014 - Nov 2015
     </span></b><br>
-TACTICAL MARKETING, Seattle, WA
+Tactical Marketing, Seattle, WA
 </p>
 - Assisted the marketing manager on consumers’ information and daily sales report.
 - Understood all the available products/services to provide the best solutions to customers.
@@ -124,7 +124,7 @@ Advanced Python
 </b>
 <ul><li style="list-style-type: none;">
 4+ years of experience<br>
-BeautifulSoup, Matplotlib, NumPy, Pandas, SciPy, Scrapy, Seaborn, Scikit-Learn, pyod, h2o. 
+BeautifulSoup, Matplotlib, NumPy, Pandas, SciPy, Scrapy, Seaborn, Scikit-Learn, pyod, h2o.
 </li></ul></p>
 
 <p style="display: inline;">
@@ -170,8 +170,10 @@ ___
     <span style="float: right;">
         2016 - 2018
     </span></b><br>
-    Extracurricular: Beta Gamma Sigma Business Honor Society, International Club, Vietnamese Student Association, Women in STEM, Phi Theta Kappa Honor Society, Southeast Asian Club, Business Club.<br>
-    Awards: 2016-2017 Annual Dean’s List, 2018 Certificate of High Scholarship, 2015-2016 President’s List.
+    <ul><li style="list-style-type: none;">
+    <b>Extracurriculars:</b> Beta Gamma Sigma Business Honor Society, International Club, Vietnamese Student Association, Women in STEM, Phi Theta Kappa Honor Society, Southeast Asian Club, Business Club.<br>
+    <b>Awards:</b> 2016-2017 Annual Dean’s List, 2018 Certificate of High Scholarship, 2015-2016 President’s List.
+    </li></ul>
 </p>
 
 <p style="text-align: left;"><b>
@@ -179,11 +181,13 @@ ___
     <span style="float: right;">
         2012 - 2014
     </span></b><br>
-    Extracurricular: PTK Seattle Community College Honor Society membership, Southeast Asian Club, Women in STEM, Business Club.<br>
-    Awards: International Education Scholarship (Winter 2013), President’s list, dean’s list
+    <ul><li style="list-style-type: none;">
+    <b>Extracurriculars:</b> PTK Seattle Community College Honor Society membership, Southeast Asian Club, Women in STEM, Business Club.<br>
+    <b>Awards:</b> International Education Scholarship (Winter 2013), President’s list, dean’s list.
+    </li></ul>
 </p>
 
-### Language
+### Languages
 ___
-  - English
-  - Vietnamese
+  - English - Fluent
+  - Vietnamese - Native Speaker
