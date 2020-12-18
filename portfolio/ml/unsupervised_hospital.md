@@ -186,8 +186,10 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  The <b>PCA-Based Anomaly Detection</b> module solves the problem by analyzing available features to determine what constitutes a "normal" class, and applying distance metrics to identify cases that represent anomalies.<br><br>
+  The <b>KNN-based anomaly detection</b> methods relies on neighbors search to decide whether a data point is an outlier. An isolated data point has a large distance to other observations and it can be seen as an outlier through KNN. <br><br>
+  By aggregating multiple models, the chance of overfitting is greatly reduced and the prediction accuracy will be improved. In this project, I used the four methods from the <b?Pyod module</b> to aggregate the outcome (Average, Maximum of Maximum (MOM),Average of Maximum (AOM), Maximum of Average (MOA)). <br><br>
+    <i><b>Libraries:</b> pandas, numpy, scipy, sklearn, pyod, seaborn, matplotlib</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/unsupervised/pca_knn/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
@@ -204,7 +206,9 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
+  In this project, I will use <b>autoencoder and isolation forest</b> algorithm to detect outliers. I will try 3 different models, the average and the maximun of maximun methods for both of the approaches.<br><br>
+  <b>Autoencoder techniques</b> can perform non-linear transformations with their non-linear activation function and multiple layers. It is more efficient to train several layers with an autoencoder, rather than training one huge transformation with PCA. <br><br>
+  <b>Isolation Forest</b> is an unsupervised learning that calculates an anomaly score and separates into binary based on an anomaly threshold. Isolation forest is <b>an advanced outlier detection</b> that delects anomalies based on the concept of isolation instead of distance or density measurement. It is different from other methods like KNN or PCA in anomalies detection and is knowns as <b>an effective method</b> at reducing frauds.<br><br>
     <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
         <div class="row">
         <div class="column50">

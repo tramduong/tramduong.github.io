@@ -160,15 +160,37 @@ For a more detailed explanation, check out [My Github](https://github.com/tramdu
 
 
 <br>
-
+### Data Information
+___
+<div class="row">
+<div class="column50">
+  Raw data from Webhose:<br>
+   + Thread title: Google <br>
+   + Type of sites: news and blogs<br>
+   + Country: US <br>
+   + Laguage: English<br>
+   + Dates: last 30 days since 13 JUNE 2020<br>
+   + Size: 27,798 feeds<br>
+ </div>
+ <div class="column50">
+   The Final dataset:<br>
+   + Thread title: Google<br>
+   + Type of sites: news and blogs<br>
+   + Country: US<br>
+   + Laguage: English<br>
+   + Dates: last 30 days since 13 JUNE 2020<br>
+   + Size: 18116 feeds<br>
+   </div>
+ </div>
 ###  Simhash Text Deduplication
 ___
 
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  Use Simhash and Word2Vec models to deduplicate Webhose feeds based on titles .<br><br>
+  Deduplication should be carried out on the entire dataset, so that the output does not contain duplicate titles/articles. <br><br>
+    <i><b>Libraries:</b> webhoseio, Simhash, json, gensim, numpy, logging</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/nlp/Deduplicated/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
@@ -185,8 +207,8 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  In this project, I used <b>Gensim</b> packages to build a LDA model. Then I applied the model to a great visualization for topic modeling using <b>pyLDAvis,</b><br>
+    <i><b>Libraries:</b> request, json, re, pandas, nltk, string, datetime, iexfinance, pyLDAvis, gensim, matplotlib</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/nlp/TD_Gensim/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
@@ -203,8 +225,9 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  In this project, I created a taxonomy based on LDA model and mannual data exploration for Google feeds during the time period.<br><br>
+  Then I classified the Webhose article titles against the developed taxonomy using word2vec similarity. <br>
+    <i><b>Libraries:</b> pandas, sumy, gensim, operator, scipy , numpy, json.</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/nlp/Topic Classification/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
@@ -221,8 +244,9 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  In this project, I implemented an LDA training and topic modeling on the  deduplicated Webhose feeds dataset.<br><br>
+  I use LDA from Scikit-Learn and modified the values of min_df and max_df, max_features and max_iter (sklearn) to achieve best results. <br>
+    <i><b>Libraries:</b> json, sklearn, nltk, re, pandas, random.</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/nlp/Word_tokenize_LDA/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>

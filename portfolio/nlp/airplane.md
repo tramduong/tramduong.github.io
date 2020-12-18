@@ -158,17 +158,39 @@ For a more detailed explanation, check out [My Github](https://github.com/tramdu
 
 <img src="/assets/img/nlp/airplane.jpg"  alt="Portfolio Banner" class="banner">
 
-
 <br>
 
+### Data Information
+___
+<div class="row">
+<div class="column50">
+  Raw data from Webhose:<br>
+   + Thread title: airline <br>
+   + Type of sites: news and blogs<br>
+   + Country: US <br>
+   + Laguage: English<br>
+   + Dates: last 30 days since 27 JULY 2020<br>
+   + Size: 20,015 feeds<br>
+ </div>
+ <div class="column50">
+   The Final dataset:<br>
+   + Thread title: airline<br>
+   + Type of sites: news and blogs<br>
+   + Country: US<br>
+   + Laguage: English<br>
+   + Dates: last 30 days since 27 JULY 2020<br>
+   + Size: 13,341 feeds<br>
+   </div>
+ </div>
 ### Latent semantic analysis
 ___
 
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  Latent Semantic Analysis(LSA)is an efficient way of analysing the text and finding the hidden topics by understanding the context of the text.<br><br>
+  This approach helps to find the hidden topics represented by the US news for Airlines industry during COVID-19 time, such as top 5 articles and their similarity scores/ <br>
+    <i><b>Libraries:</b> json, re, nltk, time, gensim, operator, scipy, sklearn, numpy</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/nlp/LSA/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
@@ -185,8 +207,9 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  Named entity recognition (NER) helps you easily identify the key elements in a text, like names of people, places, brands, monetary values, and more. <br><br>
+  This approach helps to extract the main entities in the news, such as which airline has been mentioned mostly in the news during the pandemic.
+    <i><b>Libraries:</b>  json, spacy, pandas, matplotlib</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/nlp/NER/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
@@ -203,8 +226,9 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  Use Simhash and Word2Vec models for semantic deduplication to deduplicate Webhose feeds based on titles .<br><br>
+  Deduplication should be carried out on the entire dataset, so that the output does not contain duplicate titles/articles. <br><br>
+    <i><b>Libraries:</b> webhoseio, Simhash, json, gensim, numpy, logging</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/nlp/Simhash&Word2Vec/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
@@ -221,8 +245,9 @@ ___
 <p style="display: inline;">
   <img src="/assets/icons/python.png" width="75">
   <ul><li style="list-style-type: none;">
-  Analyzing a hospital charge data to determine outliers, identify anomalous activities and provide insights of these behaviors using different advanced algorithms.<br>
-    <i><b>Libraries:</b> pandas, scipy, sklearn, pyod, seaborn, matplotlib</i>
+  Sentiment analysis is a common NLP task, which involves classifying texts or parts of texts into a pre-defined sentiment.<br><br>
+  In this project, I use NLTK Sentiment Intensity Analyzer to define weekly summaries sentiment analysis into positive and negative scores. <br><br>
+    <i><b>Libraries:</b> json, pandas, spacy, sumy, re, time, sklearn, pyod, seaborn, SentimentIntensityAnalyzer, matplotlib</i>
         <div class="row">
         <div class="column50">
         <a href="/portfolio/projects/nlp/WeeklySummaries_SentimentAnalysis/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
