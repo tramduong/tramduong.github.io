@@ -193,7 +193,7 @@ ___
     <i><b>Libraries:</b> webhoseio, Simhash, json, gensim, numpy, logging</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/nlp/Deduplicated/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/nlp/Deduplicated/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Google%20News/doc/Deduplicated.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>
@@ -211,7 +211,7 @@ ___
     <i><b>Libraries:</b> request, json, re, pandas, nltk, string, datetime, iexfinance, pyLDAvis, gensim, matplotlib</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/nlp/TD_Gensim/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/nlp/TD_Gensim/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Google%20News/doc/TD_Gensim.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>
@@ -230,7 +230,7 @@ ___
     <i><b>Libraries:</b> pandas, sumy, gensim, operator, scipy , numpy, json.</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/nlp/Topic Classification/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/nlp/Topic Classification/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Google%20News/doc/Topic%20Classification.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>
@@ -249,7 +249,7 @@ ___
     <i><b>Libraries:</b> json, sklearn, nltk, re, pandas, random.</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/nlp/Word_tokenize_LDA/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/nlp/Word_tokenize_LDA/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Google%20News/doc/Word_tokenize_LDA.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>

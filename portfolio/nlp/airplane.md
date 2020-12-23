@@ -193,7 +193,7 @@ ___
     <i><b>Libraries:</b> json, re, nltk, time, gensim, operator, scipy, sklearn, numpy</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/nlp/LSA/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/nlp/LSA/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/LSA%20.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>
@@ -212,7 +212,7 @@ ___
     <i><b>Libraries:</b>  json, spacy, pandas, matplotlib</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/nlp/NER/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/nlp/NER/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/NER.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>
@@ -231,7 +231,7 @@ ___
     <i><b>Libraries:</b> webhoseio, Simhash, json, gensim, numpy, logging</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/nlp/Simhash&Word2Vec/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/nlp/Simhash&Word2Vec/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/Autoencoder_IsolationForest.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>
@@ -250,7 +250,7 @@ ___
     <i><b>Libraries:</b> json, pandas, spacy, sumy, re, time, sklearn, pyod, seaborn, SentimentIntensityAnalyzer, matplotlib</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/nlp/WeeklySummaries_SentimentAnalysis/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/nlp/WeeklySummaries_SentimentAnalysis/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Airlines%20Covid-19/doc/WeeklySummaries_SentimentAnalysis.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>

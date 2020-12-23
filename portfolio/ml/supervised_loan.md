@@ -183,7 +183,7 @@ ___
     <i><b>Libraries:</b> pandas, numpy, sklearn, seaborn, matplotlib</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/supervised/Loandefault_GradientBoosting_RF/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/supervised/Loandefault_GradientBoosting_RF/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/Loandefault_GradientBoosting_RF.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>
@@ -202,7 +202,7 @@ ___
     <i><b>Libraries:</b> pandas, h2o, imblearn, sklearn, collections, under_sampling, over_sampling, matplotlib</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/supervised/SupervisedRF&SamplingTechniques/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/supervised/SupervisedRF&SamplingTechniques/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/SupervisedRF%26SamplingTechniques.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>
@@ -224,7 +224,7 @@ ___
     <i><b>Libraries:</b> pandas, numpy, datetime, H2O, sklearn, seaborn, matplotlib</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/supervised/GBM&DEEPLEARNING/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/supervised/GBM&DEEPLEARNING/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/GBM%26DEEPLEARNING.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>
@@ -244,7 +244,7 @@ ___
     <i><b>Libraries:</b>  pandas, numpy, datetime, H2O, sklearn, seaborn, matplotlib</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/supervised/GLM&AutoML/" target="_blank"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/supervised/GLM&AutoML/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Loan%20Default/Doc/GLM%26AutoML.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>
