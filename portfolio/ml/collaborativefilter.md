@@ -164,7 +164,7 @@ For a more detailed explanation, check out [My Github](https://github.com/tramdu
 ### Project Description
 ___
 
-*Collaborative filtering* refers to the process of making automatic predictions (*filtering*) about the interests of a user by collecting preferences or taste information from many users (*collaborating*).
+*Collaborative filtering*  is an **unsupervised learning** which refers to the process of making automatic predictions (*filtering*) about the interests of a user by collecting preferences or taste information from many users (*collaborating*).
 
 For this project, I will focus on some **specific algorithms** from the *Collaborative filtering* literature. Then I will study the algorithms carefully and implement them, from scratch.
 
