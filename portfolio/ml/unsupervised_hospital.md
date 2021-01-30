@@ -192,7 +192,7 @@ ___
     <i><b>Libraries:</b> pandas, numpy, scipy, sklearn, pyod, seaborn, matplotlib</i>
         <div class="row">
         <div class="column50">
-        <a href="/portfolio/projects/unsupervised/pca_knn/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
+        <a href="/portfolio/projects/unsupervised/PCA_KNN/"><img src="/assets/img/project_button.png" alt="View Project" class="button_smallest"></a>
         </div>
         <div class="column50">
         <a href="https://github.com/tramduong/Data-Science-Portfolio/blob/master/Hospital%20Charges%20Fraud/Unspervised/PCA_KNN.ipynb" target="_blank"><img src="/assets/img/github_button.png" alt="View on Github" class="button_smallest"></a>

@@ -188,7 +188,12 @@ ___
   <div class="column50">
     <a href="/portfolio/nlp/lyrics/" target="_blank"><img src="/assets/img/nlp/lyrics_card.jpg" alt="Lyrics NLP" class="button"></a>
   </div>
+
+  <div class="column50">
+    <a href="/portfolio/nlp/nlp/" target="_blank"><img src="/assets/img/nlp/nlp_card.jpg" alt="Lyrics NLP" class="button"></a>
+  </div>
 </div>
+
 
 ### Data Exploratory and Visualizations
 ___
