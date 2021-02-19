@@ -49,7 +49,7 @@ ___
         August 2014
     </span></b><br>
     South Seattle College<br>
-    Focus: Business Administration
+    Major: Business Administration
     <span style="float: right;">
         GPA 3.71
     </span>
@@ -64,10 +64,11 @@ ___
     </span></b><br>
 Regeneron Pharmaceuticals, New York, NY
 </p>
-- The main contributor to the analytics progress of the project, including data cleaning, imputation, machine learning modelling, and visualizations using Python and Tableau.
+- The main coder to the analytics progress of the project, including data cleaning, imputation, machine learning modelling, and visualizations using Python and Tableau.
+- Combined analytical approach and business insights to reduce dimensionality from a complex biopharma dataset.
 - Successfully delivered an unsupervised machine learning model to help the management team allocate resources for their patients.
 - Handled an accurate and successful data management by exploring, studying, and interpreting large and complex datasets.
-- Proficiently introduced innovative methods for approaching the given datasets.
+- Proficiently introduced innovative analytical methods for approaching the given datasets.
 - Utilized different tactical approaches to feature engineering, feature selections, and advanced machine learning models that support the business decision for the management team.
 - Actively collaborate and communicate to the team and the sponsor throughout the entire project.
 
@@ -81,7 +82,7 @@ Healthcare Management Administrators, INC. Bellevue, WA
 - Utilized SharePoint and Excel to gather and manipulate data to forecast expenses for accrual analysis.
 - Collected data through SQL queries to analyze monthly expenses for creating expense reports.
 - Designed and performed SQL and Access queries for colleagues to assist with problem solving and decision making.
-- Reworked existing manual processes to allow for greater automation and digitization resulting in more effective an efficient work procedure.
+- Reworked existing manual processes to allow for greater automation and digitization resulting in more effective and efficient work procedures (30% faster).
 - Handled multiple implementation projects to support automatic and improvement on traditional procedure.
 - Analyzed data into Power BI to create visualizations for flow of company expenditures, cost efficiency analysis, and work schedules.
 
