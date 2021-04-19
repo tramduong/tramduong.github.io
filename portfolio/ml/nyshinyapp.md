@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Face Image Emotion Recognition
+title: NYC Fast Food Restaurant Nutrition App
 description: >
-  This page contains the unsupervised algorithms for hospital charges
+  This page contains the code and the description of the app.
 hide_description: true
 sitemap: false
 ---
@@ -149,7 +149,7 @@ sitemap: false
 {:toc}
 
 
-This project creates a shinny app that provides users with nutrition information for fast food chain restaurants in NYC. Users can choose restaurants based on location and compare menu items.<br>
+This project creates a shiny app that provides users with nutrition information for fast food chain restaurants in NYC. Users can choose restaurants based on location and compare menu items.<br>
 
 For a more detailed explanation, check out [My Github](https://github.com/tramduong/Data-Science-Portfolio/tree/master/RestaurantApp)
 {:.note}
