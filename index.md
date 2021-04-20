@@ -106,7 +106,7 @@ cover: true
 </style>
 
 
-A place where you can get to know a little  about me.  
+A place where you can get to know a little about me.  
 {:.note}
 
 ### About me
@@ -114,12 +114,12 @@ A place where you can get to know a little  about me.
 <div class="row">
     <div class="column60" style ="padding: 0px;">
       <p style="text-align: left;">  <br> My name is <b>Tram Duong</b>. <br><br>
-        I hold a M.S degree in Applied Analytics at Columbia University and a Bachelor's degree in Finance and Management Information Systems (MIS) at the University of Washington. <br><br>
-        I have always enjoyed solve puzzles, and that's how I look at large and complex datasets. To me, they are like big puzzle than business problems that I need to solve. It is always exciting to me to find patterns of different datasets.<br><br>
-        I am passionate to apply technical and analytical skills, statistical and mathematical knowledge to recognize business problems and develop effective business strategy across organizational functions.<br><br>
+        I hold a Master of Science degree in Applied Analytics at Columbia University and a Bachelor Degree in Finance and Management Information Systems (MIS) at the University of Washington. <br><br>
+        I have always enjoyed solving puzzles, and that is how I look at large and complex datasets. To me, they are more like big puzzles rather than business problems that I need to work on. It is always exciting to find patterns within different datasets and use my experience to solve them.<br><br>
+        I am passionate about applying my technical and analytical skills, including my statistical and mathematical knowledge, to recognize business problems and develop effective business strategies across organizational functions.<br><br>
       </p>
     </div>
-    <div class="column90">
+    <div class="column40">
       <figure>
         <img src="/assets/img/About_2.jpg" width="300" style ="padding-left: 15px;">
       </figure>
@@ -127,18 +127,18 @@ A place where you can get to know a little  about me.
 </div>
 
 ### Areas of Interest
-I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use Python, R, SQL, Excel, PowerBI and Tableau for my data projects. My career interests are briefly described below:
-- An <b>aspiring data analyst, data scientist, and machine learning engineer.</b> <br>
+I am experienced in machine learning, supervised and unsupervised algorithms and using data visualization techniques to present the results. I use Python, R, SQL, Excel, PowerBI and Tableau for my data projects. My career interests are briefly described as follows:
+- An <b>expert data analyst, data scientist, and machine learning engineer.</b> <br>
 - A <b>result driven and detail oriented professional</b>. <br>
-- <b>Proficient knowledge</b> of mathematics, statistics, and analytics. <br>
+- <b>Skillful ability</b> with mathematics, statistics, and analytics. <br>
 
-Some of my work can be found <b>[here](https://tramduong.github.io/portfolio/)</b>
+A sampling of my work can be found <b>[here](https://tramduong.github.io/portfolio/)</b>.
 
 ### Career Goal
 <p class="justify">
-  I enjoy the challenge of problem solving and have had a natural curiosity for computers for this very reason. I am passionate for the analytics field as I love both science and problem solving. I have been constantly seeking ways of teaching myself knowledge of programming and software development. <br><br>
+  I enjoy the challenge of problem solving and have had a natural curiosity for computers for this very reason. I am passionate about the field of analytics as I love both science and problem solving. I have constantly sought ways of teaching myself knowledge regarding programming and software development to further my skills and knowledge. <br><br>
 
-  I view data analytics as a field that can make a significant impact because so many modern businesses lead so much of their work towards digital platforms and data driven. I feel that my interest and dedication to science and technology, as well as my understanding of the necessity of hard work in order to succeed, will be great assets to me in this challenging and exciting career path.
+  I view data analytics as a field that can make a significant impact as so many modern businesses transform their work towards digital platforms and becoming data-driven. I believe that my interest and dedication to science and technology, as well as my understanding of the necessity of hard work in order to succeed, will be great assets to me in this challenging and exciting career path.
 </p>
 
 ### Contact Me here:

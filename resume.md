@@ -62,15 +62,14 @@ ___
     <span style="float: right;">
         Sept 2020 - Dec 2020
     </span></b><br>
-Regeneron Pharmaceuticals, New York, NY
+Columbia University, New York, NY
 </p>
-- The main coder to the analytics progress of the project, including data cleaning, imputation, machine learning modelling, and visualizations using Python and Tableau.
-- Combined analytical approach and business insights to reduce dimensionality from a complex biopharma dataset.
-- Successfully delivered an unsupervised machine learning model to help the management team allocate resources for their patients.
-- Handled an accurate and successful data management by exploring, studying, and interpreting large and complex datasets.
-- Proficiently introduced innovative analytical methods for approaching the given datasets.
-- Utilized different tactical approaches to feature engineering, feature selections, and advanced machine learning models that support the business decision for the management team.
-- Actively collaborate and communicate to the team and the sponsor throughout the entire project.
+- The project involved all stages of data science, including market analysis (SWOT), data observation, data cleaning, feature selection, feature engineering, modeling, evaluation, and deployment aiming to support decision making for the allocation of resources for the management team.
+-	Combined domain knowledge and statistical methods to discover innovative ways to perform dimensionality reduction across large dataset resulting in faster and more efficient handling of the data.
+- Utilized different tactical approaches for feature engineering, feature selection, and advanced machine learning models that optimized model results.
+- Successfully delivered an unsupervised, k-means model that highlighted targeted consumers and their demographic.
+- Provided suggestions and outlines for future work to help drive later efforts for business solutions.
+
 
 <p style="text-align: left;"><b>
     Business Analyst
@@ -79,12 +78,11 @@ Regeneron Pharmaceuticals, New York, NY
     </span></b><br>
 Healthcare Management Administrators, INC. Bellevue, WA
 </p>
-- Utilized SharePoint and Excel to gather and manipulate data to forecast expenses for accrual analysis.
-- Collected data through SQL queries to analyze monthly expenses for creating expense reports.
-- Designed and performed SQL and Access queries for colleagues to assist with problem solving and decision making.
-- Reworked existing manual processes to allow for greater automation and digitization resulting in more effective and efficient work procedures (30% faster).
-- Handled multiple implementation projects to support automatic and improvement on traditional procedure.
-- Analyzed data into Power BI to create visualizations for flow of company expenditures, cost efficiency analysis, and work schedules.
+-	Utilized SharePoint and Excel to gather and manipulate data to forecast expenses for analysis.
+-	Collected data through SQL queries to analyze expense reports, assist with problem solving and decision making, and drive business insights.
+-	Reworked existing manual processes to allow for greater automation and digitization resulting in more effective and efficient work procedures (30% faster).
+-	Used Power BI to create visualizations for flow of company expenditures, cost efficiency analysis, and work schedules.
+
 
 <p style="text-align: left;"><b>
     Assistant Manager
@@ -133,8 +131,8 @@ BeautifulSoup, Matplotlib, NumPy, Pandas, SciPy, Scrapy, Seaborn, Scikit-Learn, 
 Advanced SQL
 </b>
 <ul><li style="list-style-type: none;">
-2+ years of experience<br>
-pgAdmin, PostgreSQL, MySQL, MySQL Workbench, mongoDB
+3+ years of experience<br>
+Gold Level (Hacker Rank), pgAdmin, PostgreSQL, MySQL, MySQL Workbench, mongoDB
 </li></ul></p>
 
 <p style="display: inline;">
