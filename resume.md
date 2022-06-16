@@ -58,11 +58,11 @@ ___
 ### Professional Experience
 ___
 <p style="text-align: left;"><b>
-    Capstone Project
+    Data Science Consultant
     <span style="float: right;">
         Sept 2020 - Dec 2020
     </span></b><br>
-Columbia University, New York, NY
+REGENERON PHARMACEUTICALS, New York, NY
 </p>
 - The project involved all stages of data science, including market analysis (SWOT), data observation, data cleaning, feature selection, feature engineering, modeling, evaluation, and deployment aiming to support decision making for the allocation of resources for the management team.
 -	Combined domain knowledge and statistical methods to discover innovative ways to perform dimensionality reduction across large dataset resulting in faster and more efficient handling of the data.
