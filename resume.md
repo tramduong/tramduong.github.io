@@ -64,7 +64,7 @@ ___
     </span></b><br>
 REGENERON PHARMACEUTICALS, New York, NY
 </p>
-- The project involved all stages of data science, including market analysis (SWOT), data observation, data cleaning, feature selection, feature engineering, modeling, evaluation, and deployment aiming to support decision making for the allocation of resources for the management team.
+- The project involved all stages of data science, including market analysis (SWOT), data observation, data cleaning, feature selection, feature engineering, modeling, evaluation, and deployment aimed to support decision making for the allocation of resources for the management team.
 -	Combined domain knowledge and statistical methods to discover innovative ways to perform dimensionality reduction across large dataset resulting in faster and more efficient handling of the data.
 - Utilized different tactical approaches for feature engineering, feature selection, and advanced machine learning models that optimized model results.
 - Successfully delivered an unsupervised, k-means model that highlighted targeted consumers and their demographic.
