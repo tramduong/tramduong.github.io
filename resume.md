@@ -113,7 +113,7 @@ gbm, Keras, knn, NLTK, randomForest, SciKit-Learn, cnn, boost, Pyod.
 Intermediate NLP:
 </b>
 <ul><li style="list-style-type: none;">
-1+ years of experience<br>
+2+ years of experience<br>
 NLTK, POS Tag, Spacy, Flask, PySpark, TextRank, Lexrank, Simhash, Taxonomy, Classifications, Scikit-Learn, Gensim, pyLDAvis, Spark, Sentiment Analysis.
 </li></ul></p>
 
@@ -122,7 +122,7 @@ NLTK, POS Tag, Spacy, Flask, PySpark, TextRank, Lexrank, Simhash, Taxonomy, Clas
 Advanced Python
 </b>
 <ul><li style="list-style-type: none;">
-4+ years of experience<br>
+5+ years of experience<br>
 BeautifulSoup, Matplotlib, NumPy, Pandas, SciPy, Scrapy, Seaborn, Scikit-Learn, pyod, h2o.
 </li></ul></p>
 
@@ -131,7 +131,7 @@ BeautifulSoup, Matplotlib, NumPy, Pandas, SciPy, Scrapy, Seaborn, Scikit-Learn, 
 Advanced SQL
 </b>
 <ul><li style="list-style-type: none;">
-3+ years of experience<br>
+4+ years of experience<br>
 Gold Level (Hacker Rank), pgAdmin, PostgreSQL, MySQL, MySQL Workbench, mongoDB
 </li></ul></p>
 
@@ -149,7 +149,7 @@ caret, dplyr, ggplot2, ggmap, tidyr, dplyr, ggvis,googleVis, wordcloud, randomFo
 Advanced Excel
 </b>
 <ul><li style="list-style-type: none;">
-6+ years of experience<br>
+7+ years of experience<br>
 Decisions Models, Forecasting, Linear & Non-Linear Programming, Optimization, Statistics, V-Lookup, Pivot, If-functions
 </li></ul></p>
 
@@ -158,7 +158,7 @@ Decisions Models, Forecasting, Linear & Non-Linear Programming, Optimization, St
 Intermediate Tableau/Power BI
 </b>
 <ul><li style="list-style-type: none;">
-1+ years of experience<br>
+2+ years of experience<br>
 </li></ul></p>
 
 
