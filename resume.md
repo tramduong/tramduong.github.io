@@ -64,12 +64,9 @@ ___
     </span></b><br>
 REGENERON PHARMACEUTICALS, New York, NY
 </p>
-- The project involved all stages of data science, including market analysis (SWOT), data observation, data cleaning, feature selection, feature engineering, modeling, evaluation, and deployment aimed to support decision making for the allocation of resources for the management team.
--	Combined domain knowledge and statistical methods to discover innovative ways to perform dimensionality reduction across large dataset resulting in faster and more efficient handling of the data.
-- Utilized different tactical approaches for feature engineering, feature selection, and advanced machine learning models that optimized model results.
-- Successfully delivered an unsupervised, k-means model that highlighted targeted consumers and their demographic.
-- Provided suggestions and outlines for future work to help drive later efforts for business solutions.
-
+- Lead coder for customer journey clustering project that combined analytical approach and domain knowledge to reduce dimensionality from a complex biopharma dataset to support decision making for the allocation of resources for the client management team.
+-	Researched, created, and evaluated innovative methods to handle data imputation (KNN, MICE, etc.) and utilized different tactical approaches for feature engineering and selection across multiple data sources with over 500k rows and 120 columns.
+- Successfully delivered an unsupervised k-means model determined by the silhouette score and the elbow method that highlighted targeted consumer demographics and provided suggestions and outlines for future work to direct and drive business decisions.
 
 <p style="text-align: left;"><b>
     Business Analyst
